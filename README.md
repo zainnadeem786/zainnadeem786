@@ -44,16 +44,56 @@ I’ve worked on real-world systems, identified vulnerabilities in platforms lik
 
 ---
 
-## 🛠️ Tools & Technologies  
+## 🛠️ Tech Stack & Tools  
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+### 🚀 Programming & Backend  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge)
+![DRF](https://img.shields.io/badge/Django_REST_Framework-ff1709?style=for-the-badge)
+
+---
+
+### 🎨 Frontend  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
+### 🗄️ Databases  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite)
+
+---
+
+### 🤖 AI & Automation  
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai)
+![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google)
+![Claude](https://img.shields.io/badge/Claude-AI-FF6F00?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-FF4088?style=for-the-badge)
+![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge)
+
+---
+
+### 🔐 Cybersecurity & Tools  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Metasploit](https://img.shields.io/badge/Metasploit-2E86C1?style=for-the-badge)
+![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability_Assessment-8E44AD?style=for-the-badge)
+![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-C0392B?style=for-the-badge)
+![Exploit Development](https://img.shields.io/badge/Exploit_Research-34495E?style=for-the-badge)
+
+---
+
+### ⚡ Dev Tools  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Open Source](https://img.shields.io/badge/Open_Source-3DA639?style=for-the-badge)  
 
 ---
 
