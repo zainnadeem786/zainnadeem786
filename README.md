@@ -1,76 +1,177 @@
-# 👋 Hey, I'm Zain Nadeem!  
+# 👋 Hi, I'm Zain Nadeem  
 
-🚀 **Python Django Developer | Software Engineer | Ethical Hacker**  
-📍 **Tech Enthusiast | AI & Automation Developer | Full-Stack Developer**  
-
-With upto **2 years of experience** in **Python Django, web development, cybersecurity, and AI automation**, I love building **scalable web applications, AI-driven solutions, and security-enhanced platforms**. My expertise spans across backend development, ethical hacking, and automation tools that enhance productivity.  
+🚀 **Python Developer | Software Engineer | Cybersecurity Specialist | AI Engineer**  
+🔐 Ethical Hacker | 🤖 AI Red Team Operator | 🧠 Prompt Engineer  
 
 ---
 
-## 💡 About Me  
-🔹 Passionate about **problem-solving, automation, and AI-driven solutions**.  
-🔹 Enthusiastic about **cybersecurity, ethical hacking, and penetration testing**.  
-🔹 Constantly learning and experimenting with **new technologies & AI advancements**.  
-🔹 Open to **collaborations** on innovative projects and startup ventures.  
+## 🧑‍💻 About Me  
+
+I am a **results-driven Software Engineer with 3+ years of hands-on experience** in **Python development, AI systems, and cybersecurity**.  
+
+I specialize in building **scalable web applications**, **AI-powered tools**, and performing **advanced penetration testing & security research**.  
+
+I’ve worked on real-world systems, identified vulnerabilities in platforms like **Telegram Wallet & Crypto.com**, and delivered secure, production-ready solutions. :contentReference[oaicite:0]{index=0}  
 
 ---
 
-## 🛠️ Technical Skills & Expertise  
-### **Backend Development**  
-- 🐍 **Python, Django, Flask | Django Rest Framework (DRF)**  
-- 🔄 **RESTful APIs & Web Services**  
-- 🗄️ **Databases** – SQLite, PostgreSQL, MySQL  
+## 🚀 Core Expertise  
 
-### **Frontend Development**  
-- 🌐 **HTML, CSS, JavaScript, Tailwind CSS, Bootstrap**  
-- 🏗️ **Responsive & Interactive UI Development**  
+### 💻 Web & Software Development  
+- 🐍 Python (Django, Flask, DRF, FastAPI)  
+- 🌐 HTML, CSS, JavaScript  
+- 🎨 Tailwind CSS, Bootstrap  
+- 🔄 REST APIs & Backend Architecture  
+- 🗄️ PostgreSQL, SQLite  
 
-### **Cybersecurity & Ethical Hacking**  
-- 🔐 **Penetration Testing (CEH Certified – CISCO & PFTP)**  
-- 🛡️ **Network Security & Vulnerability Assessment**  
-- 🔍 **Bug Bounty Hunting & Secure Code Audits**  
+---
 
-### **AI & Automation**  
-- 🤖 **AI-Powered Virtual Assistants**  
-- ✨ **Task Automation & AI-Driven Software Solutions**  
+### 🔐 Cybersecurity & Ethical Hacking  
+- 🛡️ Penetration Testing  
+- 🔍 Vulnerability Assessment & Exploitation  
+- 🧠 Red Teaming & Threat Analysis  
+- 🐚 Bash / Shell Scripting  
+- 🎯 Bug Bounty Hunting  
+
+---
+
+### 🤖 AI & Automation  
+- 🧠 Prompt Engineering  
+- 🤖 AI System Integration  
+- 🗣️ NLP-based Applications  
+- ⚙️ Automation (Python & Shell)  
+- 🔗 N8N Workflow Automation  
+
+---
+
+## 🛠️ Tools & Technologies  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 
 ---
 
 ## 💼 Professional Experience  
-🔹 **Python Django Developer** @ **Devverx** *(Current)*  
-🔹 **Software Engineer** @ **Code Circle (Pvt) Ltd** *(Previous)*  
-🔹 **Ethical Hacker** *(CEH Certified – CISCO & PFTP)*  
-🔹 **Freelancer | AI Tool Developer | Prompt Engineer**  
+
+### 🔹 Python Developer & Cybersecurity Specialist  
+📍 StepSharp Digital *(July 2025 – Present)*  
+- Built Python automation tools and secure backend systems  
+- Performed vulnerability assessments & threat analysis  
+- Conducted website security audits  
+- Integrated AI features into applications  
 
 ---
 
-## 🚀 Current Projects  
-### **1️⃣ Classified Ads Platform**  
-A modern **marketplace** where users can **post, manage, and search for ads** efficiently.  
-🔹 **Technologies**: Django, DRF, PostgreSQL, Tailwind CSS  
+### 🔹 Software Engineer  
+📍 Code Circle (Pvt) Ltd *(Oct 2023 – Jan 2025)*  
+- Developed full-stack apps using Django & Tailwind  
+- Built AI chat & voice tools using NLP  
+- Optimized APIs & improved system performance  
 
-### **2️⃣ Task Management System**  
-A **collaborative task management tool** with real-time **notifications, user assignments, and analytics dashboards**.  
-🔹 **Features**: Task sharing, detailed analytics, role-based access control  
+**Key Achievements:**  
+- 🚀 AI-based image detection system  
+- 🎨 Modern responsive UI development  
+- ⚡ Backend performance optimization  
 
-### **3️⃣ AI Virtual Assistant**  
-A professional **AI-powered assistant** that automates **emails, WhatsApp messages, web searches, and task management**.  
-🔹 **Features**: Natural Language Processing (NLP), Task Scheduling, Web Scraping  
+---
+
+### 🔹 Python Django Developer (Lead)  
+📍 DevVerx *(Jan 2025 – Mar 2025)*  
+- Led Django & REST API development  
+- Improved database design & system performance  
+- Delivered complete task management systems  
+
+---
+
+## 🚀 Featured Projects  
+
+### 🤖 AI Interviewer System  
+- AI-generated interview questions & evaluation  
+- Multi-role support with automated scoring  
+- Built using Django, PostgreSQL & Tailwind  
+
+---
+
+### 🌱 Plant Detection AI Tool  
+- Image recognition system using ML  
+- Flask-based backend with dynamic frontend  
+
+---
+
+### 💬 Chawowa.com (AI Chat & Voice Bot)  
+- Real-time AI chat & voice interaction  
+- Fully responsive UI with Django backend  
+
+---
+
+### 📊 Task Management System  
+- Full CRUD operations with authentication  
+- Role-based system with structured workflows  
+
+---
+
+## 🛡️ Cybersecurity Projects  
+
+### 🔥 Z-Shield Security Toolkit  
+- Reconnaissance  
+- Malware Analysis  
+- Vulnerability Scanning  
+- System Monitoring  
+
+---
+
+### 🔍 Real-World Security Research  
+- 🟢 Telegram Wallet → Security flaw reported  
+- 🟢 Crypto.com → XSS vulnerability discovered  
+- 🟢 Live Server Pentesting (Propteq.ai)  
+
+---
+
+## 🎓 Education  
+
+- 🎓 Python Django Development – Azad Chaiwala Institute  
+- 🔐 Ethical Hacking & Pen Testing – CYBRARY  
+- 🧠 Master in ChatGPT – UNIATHENA  
+- 💡 Prompt Engineering – Udemy  
+
+---
+
+## 📜 Certifications  
+
+- 🏆 Certified Ethical Hacker (CISCO)  
+- 🏆 Python Django Developer  
+- 🏆 Software Engineer – HackerRank  
+- 🏆 Web Development Intern – Sparks Foundation  
+- 🏆 Dark Web & Anonymity – EC-Council  
 
 ---
 
 ## 📊 GitHub Stats  
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zainnadeem786&show_icons=true&theme=tokyonight)  
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zainnadeem786&layout=compact&theme=tokyonight)  
 
 ---
 
-## 📫 Let's Connect!  
-🌍 **Portfolio**: *Coming Soon...*  
-💼 **LinkedIn**: [[linkedin.com/in/zainnadeem](https://www.linkedin.com/in/zain-nadeem786)](#)  
-📩 **Email**: [zainnadeemzainnadeem80@gmail.com](#)  
+## 🤝 Let's Connect  
+
+- 💼 LinkedIn: https://linkedin.com/in/zain-nadeem786  
+- 📧 Email: zainnadeemzainnadeem80@gmail.com  
+- 🌐 Portfolio: Coming Soon...  
 
 ---
 
-✨ **Fun Fact:** I enjoy **automating boring tasks**, breaking security barriers ethically, and optimizing workflows with AI!  
+## ⚡ Fun Fact  
 
+I enjoy **breaking systems (ethically), automating everything, and building AI tools that replace manual work.** 😄  
+
+---
+
+### 🚀 *"Build Smart. Hack Ethically. Automate Everything."*
