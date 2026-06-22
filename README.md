@@ -293,14 +293,25 @@ Modules Included:
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zainnadeem786\&show_icons=true\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zainnadeem786&theme=nord_dark" width="100%" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=zainnadeem786\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zainnadeem786&theme=github-dark-blue&hide_border=true" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zainnadeem786&theme=nord_dark&utcOffset=5" width="49%" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zainnadeem786\&layout=compact\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zainnadeem786&theme=nord_dark" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zainnadeem786&theme=nord_dark" width="49%" />
+</p>
 
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=zainnadeem786&limit=5&theme=dark&combine_all_yearly_contributions=true" width="100%" />
+</p>
 ---
 
 ## 🤝 Let's Connect
