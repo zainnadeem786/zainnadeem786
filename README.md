@@ -1,333 +1,156 @@
-# 👋 Hi, I'm Zain Nadeem
+# Hi, I'm Zain Nadeem
 
-🚀 **Python Developer | Software Engineer | Cybersecurity Researcher | AI Security Engineer**
+**Software Engineer & Security Researcher**
 
-![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge)
-![Security Researcher](https://img.shields.io/badge/Security-Researcher-red?style=for-the-badge)
-![AI & Software Engineer](https://img.shields.io/badge/AI%20%26%20Software-Engineer-blue?style=for-the-badge)
-![Python Developer](https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge)
-![FastAPI Developer](https://img.shields.io/badge/FastAPI-Developer-009688?style=for-the-badge)
+Open Source Contributor • AI Builder
 
-🔐 Ethical Hacker | 🤖 AI Red Team Operator | 🧠 Prompt Engineer | ⚡ Open Source Contributor
+Building backend systems, local AI tools, security-focused software, and practical security tooling, with published vulnerability research and upstream open-source contributions.
 
----
+[Portfolio](https://zainnadeem786.github.io/) | [Security Research](https://zainnadeem786.github.io/research.html) | [Open Source](https://zainnadeem786.github.io/open-source.html) | [LinkedIn](https://www.linkedin.com/in/zain-nadeem786/)
 
-## 🧑‍💻 About Me
+Based in Pakistan.
 
-I am a **Software Engineer, Cybersecurity Researcher, and AI Security Engineer** with **3+ years of hands-on experience** in backend development, AI-powered applications, offensive security research, and automation engineering.
+## About
 
-My expertise includes building **secure web applications**, **AI-powered platforms**, **Local LLM solutions**, **RAG systems**, **automation workflows**, and conducting **penetration testing, vulnerability assessments, and security research**.
+I build Python backend systems, APIs, and local-first AI tools with a practical security engineering focus.
+My core work spans Django, Django REST Framework, FastAPI, API development, local AI systems, and security automation.
+I also research framework and application-security issues, write technical analysis, and contribute bug fixes to mature open-source projects.
+The portfolio is the canonical hub for project writeups, research notes, and contribution history.
 
-I actively contribute to open-source projects, security tooling, CI/CD improvements, and modern AI infrastructure while focusing on secure and scalable software development.
+## Security Research
 
----
+### Django REST Framework - CVE-2026-73228
 
-## 🚀 Current Focus
+- **Severity:** Moderate
+- **Reporter:** Zain Nadeem (`zainnadeem786`)
+- DRF `request.data` parsing could bypass Django's configured `DATA_UPLOAD_MAX_MEMORY_SIZE` protection for JSON and URL-encoded request bodies.
+- [Official advisory](https://github.com/encode/django-rest-framework/security/advisories/GHSA-2m8g-3cmr-wg3w) | [Read technical analysis](https://zainnadeem786.github.io/research/cve-2026-73228.html)
 
-* 🤖 AI Security Engineering
-* 🔥 AI Red Teaming
-* 🧠 Local LLM Infrastructure
-* 📚 Retrieval-Augmented Generation (RAG)
-* ⚡ FastAPI & Django Backend Development
-* 🔐 Offensive Security Research
-* 🛡️ Application Security & OWASP Testing
-* 🚀 Open Source Contributions
+### Django REST Framework - CVE-2026-73229
 
----
+- **Severity:** Moderate
+- **Reporter:** Zain Nadeem (`zainnadeem786`)
+- `AdminRenderer` could disclose GET-protected data while rendering invalid write requests in specific permission and renderer configurations.
+- [Official advisory](https://github.com/encode/django-rest-framework/security/advisories/GHSA-g47c-3xmw-q6m2) | [Read technical analysis](https://zainnadeem786.github.io/research/cve-2026-73229.html)
 
-## 🚀 Core Expertise
+### CyberChef - CVE-2026-72912
 
-### 💻 Software Engineering & Backend Development
+- **Severity:** Moderate
+- **Reporter:** Zain Nadeem (`zainnadeem786`)
+- CyberChef's pretty-recipe parser could be forced into client-side CPU exhaustion through malformed `#recipe=` URL fragments.
+- [Official advisory](https://github.com/gchq/CyberChef/security/advisories/GHSA-w74r-jxjh-gwr6) | [Read technical analysis](https://zainnadeem786.github.io/research/cve-2026-72912.html)
 
-* 🐍 Python
-* ⚡ FastAPI
-* 🌐 Django
-* 🔥 Flask
-* 🧩 Django REST Framework (DRF)
-* 🔄 REST API Design & Development
-* 🏗️ Backend Architecture
-* ⚙️ Automation Systems
-* 📊 API Optimization
-* 🔐 Secure Application Development
+## Open Source Engineering
 
----
+Selected public work with evidence:
 
-### 🤖 Artificial Intelligence & Automation
+| Project | Contribution evidence |
+| --- | --- |
+| CPython | Selected merged bug fixes: [#151779](https://github.com/python/cpython/pull/151779), [#152223](https://github.com/python/cpython/pull/152223), [#152471](https://github.com/python/cpython/pull/152471), [#152906](https://github.com/python/cpython/pull/152906) |
+| CyberChef | Multiple merged engineering and security-adjacent fixes: [#2589](https://github.com/gchq/CyberChef/pull/2589), [#2612](https://github.com/gchq/CyberChef/pull/2612), [#2615](https://github.com/gchq/CyberChef/pull/2615), [#2682](https://github.com/gchq/CyberChef/pull/2682) |
+| Celery | Merged worker pidbox cleanup bug fix: [#10363](https://github.com/celery/celery/pull/10363) |
+| Visual Studio Code | Merged Workspace Trust transition fix: [#328626](https://github.com/microsoft/vscode/pull/328626) |
+| OWASP APTS | Merged CI engineering contribution: [#41](https://github.com/OWASP/APTS/pull/41) |
+| Django REST Framework | Framework bug-fix PRs: [#9977](https://github.com/encode/django-rest-framework/pull/9977), [#9981](https://github.com/encode/django-rest-framework/pull/9981). Related maintainer-authored upstream security remediation: [#10013](https://github.com/encode/django-rest-framework/pull/10013) |
+| Nuclei | Reported parser panic issue / bug research: [#7524](https://github.com/projectdiscovery/nuclei/issues/7524) |
 
-* 🧠 Prompt Engineering
-* 🤖 AI Application Development
-* 📚 Retrieval-Augmented Generation (RAG)
-* 🗄️ Vector Databases & Embeddings
-* 🔥 Ollama & Local LLM Deployment
-* 🧠 Mistral & Open Source LLMs
-* 🤖 AI Security Engineering
-* 🔴 AI Red Team Operations
-* ⚡ Workflow Automation
-* 🔗 N8N Automation
-* 🗣️ NLP-Based Applications
+[View all contributions](https://zainnadeem786.github.io/open-source.html)
 
----
+## Featured Projects
 
-### 🔐 Cybersecurity & Security Research
+### CodeGuardian AI
 
-* 🛡️ Penetration Testing
-* 🔍 Vulnerability Assessment
-* 🎯 Bug Bounty Hunting
-* 🧠 Threat Analysis
-* 🔥 OWASP Top 10 Testing
-* 🐚 Bash & Shell Scripting
-* 🔎 Security Auditing
-* 🚨 Secure Code Review
-* ⚔️ Offensive Security Research
-* 🔒 Responsible Disclosure
+Privacy-first local secure code review platform for repository and ZIP scanning, Semgrep, Bandit, custom checks, context-aware finding reduction, local Ollama/Mistral analysis, and professional reporting.
 
----
+[Project page](https://zainnadeem786.github.io/projects/codeguardian-ai.html)
 
-## 🛠️ Tech Stack & Tools
+### SecOps AI
 
-### 🚀 Programming & Backend
+SOC investigation and log-analysis platform for log ingestion, detections, attack campaign correlation, risk scoring, timelines, cases, live ingestion, and local AI analyst context.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![DRF](https://img.shields.io/badge/Django_REST_Framework-red?style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge\&logo=flask)
-![REST API](https://img.shields.io/badge/REST_API-orange?style=for-the-badge)
+[Project page](https://zainnadeem786.github.io/projects/secops-ai.html)
 
----
+### AI Brain
 
-### 🎨 Frontend
+Portable local AI knowledge and engineering workstation for RAG, repository intelligence, trusted research, local security scanning, agentic coding, human approval, and Ollama-based workflows.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge\&logo=bootstrap)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+[Project page](https://zainnadeem786.github.io/projects/ai-brain.html)
 
----
+### EchoMind AI
 
-### 🗄️ Databases
+**Status:** Under Development
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite)
+Secure local organizational intelligence platform for private document retrieval, grounded assistance, meeting workflows, tenancy, ChromaDB retrieval, and Ollama-based local AI.
 
----
+[Project page](https://zainnadeem786.github.io/projects/echomind-ai.html)
 
-### 🤖 AI & LLM Stack
+### AI Interview Platform
 
-![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge\&logo=openai)
-![Gemini](https://img.shields.io/badge/Google_Gemini-blue?style=for-the-badge)
-![Claude](https://img.shields.io/badge/Claude-orange?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-FF6B35?style=for-the-badge)
-![Vector\_DBs](https://img.shields.io/badge/Vector_Databases-purple?style=for-the-badge)
-![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge)
+**Status:** Completed
 
----
+Local-AI powered interview preparation and assessment platform using Django, Django REST Framework, FastAPI, Ollama, resume analysis, structured assessment, and gamified practice.
 
-### 🔐 Cybersecurity
+[Project page](https://zainnadeem786.github.io/projects/ai-interview-platform.html)
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge)
-![Pentesting](https://img.shields.io/badge/Penetration_Testing-red?style=for-the-badge)
-![Vulnerability\_Assessment](https://img.shields.io/badge/Vulnerability_Assessment-purple?style=for-the-badge)
-![Security\_Research](https://img.shields.io/badge/Security_Research-blue?style=for-the-badge)
-![Bug\_Bounty](https://img.shields.io/badge/Bug_Bounty-green?style=for-the-badge)
+## Core Toolkit
 
----
+### Backend & Systems
 
-## 💼 Professional Experience
+Python | Django | Django REST Framework | FastAPI | PostgreSQL | Redis | Celery
 
-### 🔹 Python Developer | Cybersecurity Specialist | Project Coordinator
+### AI Engineering
 
-**StepSharp Digital** *(July 2025 – Present)*
+Ollama | Local LLMs | RAG | ChromaDB | Agentic Workflows
 
-* Developed secure backend applications and APIs
-* Conducted vulnerability assessments and security reviews
-* Built automation systems and internal tooling
-* Coordinated technical projects and development workflows
-* Integrated AI-powered features into production applications
+### Security Engineering
 
----
+Application Security | API Security | Secure Code Review | Vulnerability Research | Security Automation | Log Analysis
 
-### 🔹 Lead Python Django Developer
+### Engineering Infrastructure
 
-**DevVerx** *(Jan 2025 – Mar 2025)*
+Docker | Linux | Git | GitHub Actions | Nginx
 
-* Led Django application development
-* Built scalable REST APIs
-* Improved database performance and architecture
-* Managed technical implementation workflows
-* Delivered HRMS and automation solutions
+## Professional Experience
 
----
+### Python Developer / Cybersecurity Specialist / Project Coordinator - StepSharp Digital
 
-### 🔹 Software Engineer
+July 2025 - Present
 
-**Code Circle (Pvt) Ltd** *(Oct 2023 – Jan 2025)*
+- Build secure backend applications, APIs, internal tooling, and automation workflows.
+- Conduct vulnerability assessments and security reviews.
+- Integrate AI-assisted features into application workflows.
 
-* Developed full-stack applications using Django & JavaScript
-* Built AI-powered software products
-* Created responsive frontend interfaces
-* Optimized APIs and backend performance
-* Collaborated with cross-functional teams
+### Lead Python Django Developer - DevVerx
 
----
+Jan 2025 - Mar 2025
 
-## 🚀 Featured AI & Software Projects
+- Led Django application development and REST API implementation.
+- Improved backend architecture and database performance for HRMS and automation workflows.
 
-### 📚 Portable Local RAG AI System
+### Software Engineer - Code Circle (Pvt) Ltd
 
-* Fully local Retrieval-Augmented Generation platform
-* Built using FastAPI, Ollama, Mistral and Embeddings
-* Portable SSD deployment architecture
-* Offline AI inference with privacy-first design
+Oct 2023 - Jan 2025
 
----
+- Built Django and JavaScript applications, including AI-powered product features.
+- Improved API performance and collaborated across product and engineering workflows.
 
-### 🔍 Local-First AI Security Log Analyzer
+## Education & Training
 
-* AI-powered log analysis platform
-* Offline threat detection and anomaly analysis
-* Local LLM processing
-* Privacy-focused architecture
+- Python Django Development - Azad Chaiwala Institute
+- Master in ChatGPT - UNIATHENA
+- Prompt Engineering - Udemy
 
----
-
-### 🛡️ Code Guardian – AI Secure Code Auditing Platform
-
-* AI-assisted secure code review platform
-* OWASP Top 10 aligned vulnerability checks
-* Static security analysis workflows
-* Secure development recommendations
-
----
-
-### 🤖 AI Interviewer System
-
-* Automated question generation
-* AI-based candidate evaluation
-* Intelligent scoring system
-* Multi-role interview support
-
----
-
-### 🌱 Plant Detection AI Tool
-
-* AI image recognition system
-* Dynamic image processing workflows
-* Flask-powered backend architecture
-
----
-
-### 💬 Chawowa.com AI Chat & Voice Platform
-
-* Real-time AI chatbot
-* Voice interaction support
-* Responsive frontend architecture
-* Django-powered backend
-
----
-
-### 📊 Task Management System
-
-* Authentication & Authorization
-* Full CRUD Functionality
-* Role-Based Access Control
-* Workflow Management
-
----
-
-## 🛡️ Cybersecurity Projects & Research
-
-### 🔥 Z-Shield Security Toolkit
-
-Modules Included:
-
-* Reconnaissance
-* Threat Analysis
-* Vulnerability Assessment
-* Security Automation
-* System Information Scanning
-
----
-
-### 🔍 Security Research
-
-* Telegram Wallet Security Research
-* Crypto.com XSS Vulnerability Discovery
-* Production Server Pentesting (Propteq.ai)
-* Responsible Vulnerability Disclosure
-
----
-
-## 🌟 Open Source Contributions
-
-* CPython Documentation Contributions
-* Celery Bug Fixes & Documentation Improvements
-* Security Workflow Enhancements
-* CI/CD Automation Improvements
-* Open Source Security Research
-* Community Issue Resolution
-
----
-
-## 🎓 Education
-
-* Python Django Development — Azad Chaiwala Institute
-* Penetration Testing & Ethical Hacking — CYBRARY
-* Master in ChatGPT — UNIATHENA
-* Prompt Engineering — Udemy
-
----
-
-## 📜 Certifications
-
-* Certified Ethical Hacker (Cisco)
-* Python Django Developer
-* Software Engineer (HackerRank)
-* Penetration Testing & Ethical Hacking (CYBRARY)
-* Master in ChatGPT (UNIATHENA)
-* Web Development Intern (The Sparks Foundation)
-
----
-
-# 📊 GitHub Analytics
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zainnadeem786&theme=nord_dark" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zainnadeem786&theme=nord_dark" alt="Zain Nadeem GitHub contribution summary" width="100%">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zainnadeem786&theme=github-dark-blue&hide_border=true" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zainnadeem786&theme=nord_dark&utcOffset=5" width="49%" />
-</p>
+## Connect
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zainnadeem786&theme=nord_dark" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zainnadeem786&theme=nord_dark" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=zainnadeem786&limit=5&theme=dark&combine_all_yearly_contributions=true" width="100%" />
-</p>
----
-
-## 🤝 Let's Connect
-
-💼 LinkedIn: https://linkedin.com/in/zain-nadeem786
-
-📧 Email: [zainnadeemzainnadeem80@gmail.com](mailto:zainnadeemzainnadeem80@gmail.com)
-
-🐙 GitHub: https://github.com/zainnadeem786
-
----
-
-## ⚡ Fun Fact
-
-I enjoy building secure systems, breaking vulnerable ones ethically, experimenting with local AI infrastructure, and automating repetitive work through code.
-
----
-
-# 🚀 Build Smart. Hack Ethically. Automate Everything.
+- Portfolio: [zainnadeem786.github.io](https://zainnadeem786.github.io/)
+- Security Research: [zainnadeem786.github.io/research.html](https://zainnadeem786.github.io/research.html)
+- Open Source: [zainnadeem786.github.io/open-source.html](https://zainnadeem786.github.io/open-source.html)
+- LinkedIn: [linkedin.com/in/zain-nadeem786](https://www.linkedin.com/in/zain-nadeem786/)
+- Email: [zainnadeemzainnadeem80@gmail.com](mailto:zainnadeemzainnadeem80@gmail.com)
+- GitHub: [github.com/zainnadeem786](https://github.com/zainnadeem786)
